@@ -236,15 +236,18 @@ img {
     position: absolute;
     width: 430px;
     z-index: 3;
-    -webkit-box-shadow: 5px 4px 3px 5px rgba(0, 0, 0, .5);
-            box-shadow: 5px 4px 3px 5px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 3px 3px 4px 5px rgba(0, 0, 0, .35);
+            box-shadow: 3px 3px 4px 5px rgba(0, 0, 0, .35);
 }
     #invitation h1 {
         color: #3a3a3a;
         font-size: 30px;
+        font-weight: normal;
+        font-weight: 400;
         margin-bottom: 0;
     }
     #invitation p {
+        color: #383838;
         font-family: Arial, Helvetica, sans-serif;
         font-size: .75em;
         line-height: 1.67em;
@@ -295,7 +298,7 @@ img {
 
 .right-invite-polaroid {
     bottom: -150px;
-    left: 440px;
+    left: 445px;
     position: fixed;
     z-index: 2;
 }
