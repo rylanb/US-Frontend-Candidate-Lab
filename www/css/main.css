@@ -293,6 +293,19 @@ img {
         background-image:         linear-gradient(to bottom, #313131, #393939);
     }
 
+.right-invite-polaroid {
+    bottom: -150px;
+    left: 440px;
+    position: fixed;
+    z-index: 2;
+}
+.body-right-polaroid {
+    bottom: 30px;
+    left: inherit;
+    right: 0;
+    position: fixed;
+}
+
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    Theses examples override the primary ('mobile fimage-replacest') styles.
