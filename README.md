@@ -3,7 +3,7 @@
 Hello and thank you for taking the time to work on this lab!
 
 This lab is an opportunity for us to have a conversation about practices, conventions, and workflow.
-It will also help us better understand you as a developer. 
+It will also help us better understand you as a developer.
 Please use this as a way to communicate through your craft.
 
 
@@ -28,7 +28,7 @@ Please use this as a way to communicate through your craft.
 
 # Workflow
 
-Please make atomic commits (commit often) as you progress. 
+Please make atomic commits (commit often) as you progress.
 Be sure to provide useful commit messages to illustrate milestones and workflow.
 Submit a pull request when you are finished and satisfied with your work.
 
