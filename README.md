@@ -36,6 +36,6 @@ Submit a pull request when you are finished and satisfied with your work.
 
 Use this area to communicate any thought processes, ideas, or challenges you encountered.
 
-*
-*
+* Position fixed does some interesting things for the two extra polaroids when you scroll right/left if the window is < 888px wide.
+* I'm pretty sure this is supposed to be left-aligned as a design, but not 100% on that.
 *
