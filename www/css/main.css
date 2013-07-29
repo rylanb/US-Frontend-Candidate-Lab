@@ -239,7 +239,7 @@ img {
     -webkit-box-shadow: 3px 3px 4px 5px rgba(0, 0, 0, .35);
             box-shadow: 3px 3px 4px 5px rgba(0, 0, 0, .35);
 }
-    #invitation h1 {
+    #invitation h2 {
         color: #3a3a3a;
         font-size: 30px;
         font-weight: normal;
@@ -326,7 +326,7 @@ img {
     background-image:      -o-linear-gradient(top, #f7993e, #f68533);
     background-image:         linear-gradient(to bottom, #f7993e, #f68533);
 }
-    #thanks-notice h4 {
+    #thanks-notice h3 {
         font-size: 1em;
         margin: 0;
         text-transform: uppercase;
