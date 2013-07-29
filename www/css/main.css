@@ -194,26 +194,35 @@ textarea {
    Default Screen styles.
    ========================================================================== */
 
-body { 
-    background: url(../img/woodgrain.jpg) repeat; 
+body {
+    background: url(../img/woodgrain.jpg) repeat;
     font-family: "Helvetica", "Arial", sans-serif;
-    height: 600px; 
-    width: 888px; 
+    height: 600px;
+    width: 888px;
 }
 
-img { 
-    position: absolute; 
+img {
+    position: absolute;
+}
+
+#main-content {
+}
+
+#details {
+    height: 360px;
 }
 #title {
     left: 17px;
     top: 25px;
     z-index: 2;
 }
+
 #description {
     left: 259px;
     top: 67px;
     z-index: 1;
 }
+
 #date {
     left: 525px;
     top: 9px;
@@ -227,24 +236,26 @@ img {
     position: absolute;
     width: 579px;
     z-index: 3;
+    -webkit-box-shadow: 5px 4px 3px 5px rgba(0, 0, 0, .5);
+            box-shadow: 5px 4px 3px 5px rgba(0, 0, 0, .5);
 }
-#invitation h1 {
-    font-size: 30px;
-    margin-bottom: 15px;
-}
-#invitation a {
-    background-color: #393939;
-    color: #fff;
-    border-radius: 3px;
-    display: inline-block;
-    margin-right: 20px;
-    padding: 15px;
-    text-align: center;
-    text-decoration: none;
-}
-#invitation a:hover {
-    background-color: #f78b36;
-}
+    #invitation h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    #invitation a {
+        background-color: #393939;
+        color: #fff;
+        border-radius: 3px;
+        display: inline-block;
+        margin-right: 20px;
+        padding: 15px;
+        text-align: center;
+        text-decoration: none;
+    }
+    #invitation a:hover {
+        background-color: #f78b36;
+    }
 
 
 /* ==========================================================================
